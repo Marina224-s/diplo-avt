@@ -1,0 +1,2 @@
+# diplo-avt
+python test
